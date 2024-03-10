@@ -1,4 +1,3 @@
-
 # Project Title
 
 Welcome to my 3D Portfolio Showcase – a cutting-edge website that seamlessly combines creativity, interactivity, and a touch of technological brilliance. Crafted with precision and powered by an array of sophisticated technologies, this portfolio is a testament to the fusion of React.js, Three.js, React Three Fiber, React Three Drei, Email JS, Vite, and Tailwind CSS.
@@ -16,11 +15,9 @@ In summary, my 3D Portfolio Website is a testament to the convergence of cutting
 ## 🚀 About Me
 I'm a full stack developer...
 
-
 ## Authors
 
 - [@AkankshaSingh](https://github.com/Akanksha0421)
-
 
 ## Contributing
 
@@ -30,34 +27,31 @@ See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
-
-![Logo](https://github.com/Akanksha0421/3d-portfolio/blob/master/akanksha_brand_mimoji.png)
-
+<img src="https://github.com/Akanksha0421/3d-portfolio/blob/master/akanksha_brand_mimoji.png" alt="Logo" width="200" />
 
 ## Tech Stack
 Client:
 
-React.js:
+- **React.js:**
+  - *Role:* A JavaScript library for building user interfaces, primarily used for creating dynamic and responsive client-side applications.
 
-Role: A JavaScript library for building user interfaces, primarily used for creating dynamic and responsive client-side applications.
-Three.js:
+- **Three.js:**
+  - *Role:* A powerful 3D graphics library for the browser, enabling the creation of immersive 3D visualizations and experiences on the client side.
 
-Role: A powerful 3D graphics library for the browser, enabling the creation of immersive 3D visualizations and experiences on the client side.
-React Three Fiber:
+- **React Three Fiber:**
+  - *Role:* A React renderer for Three.js, helping integrate Three.js seamlessly into React applications. It manages the 3D scene as a React component.
 
-Role: A React renderer for Three.js, helping integrate Three.js seamlessly into React applications. It manages the 3D scene as a React component.
-React Three Drei:
+- **React Three Drei:**
+  - *Role:* A set of useful abstractions and components built on top of React Three Fiber. It provides helper functions and pre-built components for easier development of Three.js applications in React.
 
-Role: A set of useful abstractions and components built on top of React Three Fiber. It provides helper functions and pre-built components for easier development of Three.js applications in React.
-Email JS:
+- **Email JS:**
+  - *Role:* Primarily used on the client side, Email JS allows sending emails directly from the browser, facilitating client-side email interactions such as form submissions.
 
-Role: Primarily used on the client side, Email JS allows sending emails directly from the browser, facilitating client-side email interactions such as form submissions.
-Vite:
+- **Vite:**
+  - *Role:* A build tool used on the client side for optimizing and bundling JavaScript code. Vite enhances the development and deployment of React.js and other client-side technologies.
 
-Role: A build tool used on the client side for optimizing and bundling JavaScript code. Vite enhances the development and deployment of React.js and other client-side technologies.
-Tailwind CSS:
-
-Role: A utility-first CSS framework used on the client side for styling purposes. It provides a set of pre-built utility classes to streamline the styling process.
+- **Tailwind CSS:**
+  - *Role:* A utility-first CSS framework used on the client side for styling purposes. It provides a set of pre-built utility classes to streamline the styling process.
 
 ## Screenshots
 
@@ -69,11 +63,9 @@ Role: A utility-first CSS framework used on the client side for styling purposes
 ![App Screenshot 6](https://github.com/Akanksha0421/3d-portfolio/blob/master/screenshotwebsite6.png)
 ![App Screenshot 7](https://github.com/Akanksha0421/3d-portfolio/blob/master/screenshotwebsite7.png)
 
-
 ## Deployment
 
 To deploy this project run
 
 ```bash
   npm run dev
-```
