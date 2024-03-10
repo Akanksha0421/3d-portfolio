@@ -31,7 +31,7 @@ See `contributing.md` for ways to get started.
 Please adhere to this project's `code of conduct`.
 
 
-![Logo](../3D_Portfolio/src/assets/akanksha_brand_mimoji.png)
+![Logo](https://github.com/Akanksha0421/3d-portfolio/blob/master/akanksha_brand_mimoji.png)
 
 
 ## Tech Stack
@@ -61,13 +61,13 @@ Role: A utility-first CSS framework used on the client side for styling purposes
 
 ## Screenshots
 
-![App Screenshot 1](../3D_Portfolio/src/assets/screenshotwebsite1.png)
-![App Screenshot 2](../3D_Portfolio/src/assets/screenshotwebsite2.png)
-![App Screenshot 3](../3D_Portfolio/src/assets/screenshotwebsite3.png)
-![App Screenshot 4](../3D_Portfolio/src/assets/screenshotwebsite4.png)
-![App Screenshot 5](../3D_Portfolio/src/assets/screenshotwebsite5.png)
-![App Screenshot 6](../3D_Portfolio/src/assets/screenshotwebsite6.png)
-![App Screenshot 7](../3D_Portfolio/src/assets/screenshotwebsite7.png)
+![App Screenshot 1](https://github.com/Akanksha0421/3d-portfolio/blob/master/screenshotwebsite1.png)
+![App Screenshot 2](https://github.com/Akanksha0421/3d-portfolio/blob/master/screenshotwebsite2.png)
+![App Screenshot 3](https://github.com/Akanksha0421/3d-portfolio/blob/master/screenshotwebsite3.png)
+![App Screenshot 4](https://github.com/Akanksha0421/3d-portfolio/blob/master/screenshotwebsite4.png)
+![App Screenshot 5](https://github.com/Akanksha0421/3d-portfolio/blob/master/screenshotwebsite5.png)
+![App Screenshot 6](https://github.com/Akanksha0421/3d-portfolio/blob/master/screenshotwebsite6.png)
+![App Screenshot 7](https://github.com/Akanksha0421/3d-portfolio/blob/master/screenshotwebsite7.png)
 
 
 ## Deployment
